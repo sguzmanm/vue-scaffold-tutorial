@@ -33,7 +33,7 @@
         <router-link to="/vuetify">Vuetify</router-link> |
         <router-link to="/vue-script">VueScript</router-link> |
         <router-link to="/vue-script-middle">VueScript Middle</router-link> |
-        <router-link to="/html-only">About</router-link> |
+        <router-link to="/parent">Parent</router-link> |
         <router-link to="/html-only">About</router-link> |
         <router-link to="/html-only">About</router-link> |
         <router-link to="/html-only">About</router-link> |
