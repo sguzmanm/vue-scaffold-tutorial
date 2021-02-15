@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/talk-logo.jpg">
     <HelloWorld msg="A backend wolf as a frontend sheep..."/>
   </div>
 </template>

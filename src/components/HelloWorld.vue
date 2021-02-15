@@ -1,7 +1,8 @@
 <template>
-  <div class="hello">
+  <v-container>
     <h1>{{ msg }}</h1>
-  </div>
+    <img src="@/assets/talk-logo.jpg" alt="">
+  </v-container>
 </template>
 
 <script lang="ts">
