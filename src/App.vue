@@ -2,7 +2,15 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/html-only">HTML Only</router-link> |
+      <router-link to="/css">CSS</router-link> |
+      <router-link to="/vuetify">Vuetify</router-link> |
+      <router-link to="/html-only">About</router-link> |
+      <router-link to="/html-only">About</router-link> |
+      <router-link to="/html-only">About</router-link> |
+      <router-link to="/html-only">About</router-link> |
+      <router-link to="/html-only">About</router-link> |
+      <router-link to="/html-only">About</router-link> |
     </div>
     <router-view/>
   </div>
