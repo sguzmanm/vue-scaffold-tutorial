@@ -12,7 +12,7 @@
           >
             <v-text-field
               v-model="firstname"
-              :counter="10"
+              :counter="length"
               label="First name"
               required
             ></v-text-field>
@@ -24,7 +24,7 @@
           >
             <v-text-field
               v-model="lastname"
-              :counter="10"
+              :counter="length"
               label="Last name"
               required
             ></v-text-field>
@@ -36,7 +36,7 @@
           >
             <v-btn
               color="warning"
-              @click="resetInputs"
+              @click="()=>{resetInputs()}"
             >
               Reset Inputs
             </v-btn>
@@ -59,6 +59,8 @@ export default class VueScript extends Vue {
   firstname = ''
 
   lastname = ''
+
+  length = 10
 
   resetInputs() {
     this.valid = false;
