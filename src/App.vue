@@ -31,7 +31,7 @@
         <router-link to="/html-only">HTML Only</router-link> |
         <router-link to="/css">CSS</router-link> |
         <router-link to="/vuetify">Vuetify</router-link> |
-        <router-link to="/html-only">About</router-link> |
+        <router-link to="/vue-script">VueScript</router-link> |
         <router-link to="/html-only">About</router-link> |
         <router-link to="/html-only">About</router-link> |
         <router-link to="/html-only">About</router-link> |

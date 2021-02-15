@@ -1,8 +1,8 @@
 <template>
-  <div class="vuetify">
+  <div>
     <button>Volver</button>
     <div>
-      <p id="my-text">Validación de documento</p>
+      <p>Validación de documento</p>
       <p>ID cuenta</p>
       <p>ACC154...</p>
       <p>Tiempo de procesamiento de Truora</p>
@@ -18,13 +18,4 @@
   </div>
 </template>
 <style scoped>
-.vuetify{
-  font-style: italic;
-  color: #000000;
-}
-
-#my-text{
-  font-weight:bolder;
-  color: #FF0000;
-}
 </style>
